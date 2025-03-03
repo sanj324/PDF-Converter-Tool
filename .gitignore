@@ -1,0 +1,5 @@
+backend/
+static/uploads/
+static/downloads/
+__pycache__/
+*.pyc
